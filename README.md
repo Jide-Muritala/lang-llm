@@ -8,6 +8,6 @@ Everything you do here is contained within this one codespace. There is no repos
 
 
 
-# Language Detective
 
-![Alt text](detectivo.jpg)
+
+<-- ![Alt text](detectivo.jpg)-->
